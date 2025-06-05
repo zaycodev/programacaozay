@@ -1,9 +1,8 @@
-#include <stdhio>
+#include <stdio.h>
 
 int main (){
 
-printf("Olá, Mundo!");
+    printf("Olá, Mundo!");
 
-
-  return 0;
+    return 0;
 }
